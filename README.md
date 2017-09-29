@@ -1,2 +1,2 @@
-# BohdanTarchanin.github.io
-My first site on the GitHub
+# Богдан Тарчанин
+Мои домашние задания
