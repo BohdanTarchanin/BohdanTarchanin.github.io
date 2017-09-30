@@ -13,6 +13,6 @@
 
 [Урок 8](https://bohdantarchanin.github.io/lesson_8/ "Мои домашки") - сетка bootstrap3
 
-[Урок 9](https://bohdantarchanin.github.io/lesson_9/ "Мои домашки") - применение bootstrap3 в макете
+[Урок 9](BohdanTarchanin.github.io/lessson_9/ "Мои домашки") - применение bootstrap3 в макете
 
 [Урок 10](https://bohdantarchanin.github.io/lesson_10/ "Мои домашки")  - препроцессор LESS
