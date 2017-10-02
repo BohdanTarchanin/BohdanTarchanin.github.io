@@ -19,7 +19,7 @@
 
 [Урок 13](https://bohdantarchanin.github.io/lesson_13/ "Мои домашки")  - обратная связь. Pixel Perfect
 
-[Практика 1](BohdanTarchanin.github.io/Practice _1/ "Мои домашки")  - Практика 1. Шапка сайта
+[Практика 1](https://bohdantarchanin.github.io/Practice%20_1/ "Мои домашки")  - Практика 1. Шапка сайта
 
 
 
