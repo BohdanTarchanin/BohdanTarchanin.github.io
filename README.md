@@ -16,3 +16,11 @@
 [Урок 9](https://bohdantarchanin.github.io/lessson_9/ "Мои домашки") - применение bootstrap3 в макете
 
 [Урок 10](https://bohdantarchanin.github.io/lesson_10/ "Мои домашки")  - препроцессор LESS
+
+[Урок 13](https://bohdantarchanin.github.io/lesson_13/ "Мои домашки")  - обратная связь. Pixel Perfect
+
+[Практика 1](BohdanTarchanin.github.io/Practice _1/ "Мои домашки")  - Практика 1. Шапка сайта
+
+
+
+
