@@ -17,7 +17,7 @@
 
 [Урок 10](https://bohdantarchanin.github.io/lesson_10/ "Мои домашки")  - препроцессор LESS
 
-[Урок 13](https://bohdantarchanin.github.io/lesson_13/ "Мои домашки")  - создание аккаунта. Pixel Perfect
+[Урок 13]( "Мои домашки")  - создание аккаунта. Pixel Perfect
 
 [Практика 1](https://bohdantarchanin.github.io/Practice%20_1/ "Мои домашки")  - Практика 1. Шапка сайта
 
