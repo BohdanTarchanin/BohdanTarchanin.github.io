@@ -19,6 +19,14 @@
 
 [Урок 13](https://bohdantarchanin.github.io/lesson_13/ "Мои домашки")  - создание аккаунта. Pixel Perfect
 
+[Урок 14](https://bohdantarchanin.github.io/lesson_14/ "Мои домашки")  - создание аккаунта. Pixel Perfect
+
+[Урок 15](https://bohdantarchanin.github.io/lesson_15/ "Мои домашки")  - создание аккаунта. Pixel Perfect
+
+[Урок 16](https://bohdantarchanin.github.io/lesson_16/ "Мои домашки")  - создание аккаунта. Pixel Perfect
+
+[Урок 17](https://bohdantarchanin.github.io/lesson_17/ "Мои домашки")  - создание аккаунта. Pixel Perfect
+
 [Практика 1](https://bohdantarchanin.github.io/Practice%20_1/ "Мои домашки")  - Практика 1. Шапка сайта
 
 
