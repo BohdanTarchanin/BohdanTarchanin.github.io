@@ -23,7 +23,7 @@
 
 [Урок 15](https://bohdantarchanin.github.io/lesson_15/ "Мои домашки")  - псевдоклассы и псевдоэлементы
 
-[Урок 16](https://bohdantarchanin.github.io/lesson_16/ "Мои домашки")  - слайдер на сайте
+[Урок 16]( "Мои домашки")  - слайдер на сайте
 
 [Урок 17](https://bohdantarchanin.github.io/lesson_17/ "Мои домашки")  - всплывающие окна
 
