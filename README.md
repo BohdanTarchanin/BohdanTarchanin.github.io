@@ -29,6 +29,14 @@
 
 [Практика 1](https://bohdantarchanin.github.io/Practice%20_1/ "Мои домашки")  - Практика 1. Шапка сайта
 
+[Практика 2](https://bohdantarchanin.github.io/Practise_2/ "Мои домашки")  - Практика 2. Подключение шрифтов. Верстка первого экрана
+
+[Практика 3](https://bohdantarchanin.github.io/Practise_3/ "Мои домашки")  - Практика 3. Эффекты при наведении и адаптив первого экрана
+
+[Практика 4](https://bohdantarchanin.github.io/Practise_4 "Мои домашки")  - Практика 4. Верстка блока с преимуществами. Слайдер
+
+[Практика 5](https://bohdantarchanin.github.io/Practise_5/ "Мои домашки")  - Практика 5. Верстка всплывающих окон на сайте
+
 
 
 
