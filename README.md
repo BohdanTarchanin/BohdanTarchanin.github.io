@@ -37,6 +37,15 @@
 
 [Практика 5](https://bohdantarchanin.github.io/Practise_5/ "Мои домашки")  - Практика 5. Верстка всплывающих окон на сайте
 
+[Урок 18.1](https://bohdantarchanin.github.io/lesson_18.1/ "Мои домашки")  - форма с использованием табов
+
+[Урок 18.2](https://bohdantarchanin.github.io/lesson_18.2/ "Мои домашки")  - аккордеон 
+
+[Урок 19](https://bohdantarchanin.github.io/lesson_19/ "Мои домашки")  - анимация формы
+
+[Урок 20](https://bohdantarchanin.github.io/lesson_20/ "Мои домашки")  - видео-фон на сайте
+
+
 
 
 
