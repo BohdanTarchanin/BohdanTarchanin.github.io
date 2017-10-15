@@ -37,6 +37,8 @@
 
 [Практика 5](https://bohdantarchanin.github.io/Practise_5/ "Мои домашки")  - Практика 5. Верстка всплывающих окон на сайте
 
+[Практика 6](https://bohdantarchanin.github.io/Practise_6/ "Мои домашки")  - Практика 6. Верстка блока с ценами
+
 [Урок 18.1](https://bohdantarchanin.github.io/lesson_18.1/ "Мои домашки")  - форма с использованием табов
 
 [Урок 18.2](https://bohdantarchanin.github.io/lesson_18.2/ "Мои домашки")  - аккордеон 
