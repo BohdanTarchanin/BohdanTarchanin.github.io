@@ -9,7 +9,7 @@
 
 [Урок 6.2](https://bohdantarchanin.github.io/lesson_6.2/ "Мои домашки") - позиционирование 2
 
-[Урок 7](https://bohdantarchanin.github.io/lesson_7/ "Мои домашки") - первая верстка макета
+  [Урок 7](https://bohdantarchanin.github.io/lesson_7/ "Мои домашки") - первая верстка макета
 
 [Урок 8](https://bohdantarchanin.github.io/lesson_8/ "Мои домашки") - сетка bootstrap3
 
