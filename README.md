@@ -27,6 +27,18 @@
 
 [Урок 17](https://bohdantarchanin.github.io/lesson_17/ "Мои домашки")  - всплывающие окна
 
+[Урок 18.1](https://bohdantarchanin.github.io/lesson_18.1/ "Мои домашки")  - форма с использованием табов
+
+[Урок 18.2](https://bohdantarchanin.github.io/lesson_18.2/ "Мои домашки")  - аккордеон 
+
+[Урок 19](https://bohdantarchanin.github.io/lesson_19/ "Мои домашки")  - анимация формы
+
+[Урок 20](https://bohdantarchanin.github.io/lesson_20/ "Мои домашки")  - видео-фон на сайте
+
+[Урок 21](https://bohdantarchanin.github.io/Lesson_21/ "Мои домашки")  - parallax and rellax
+
+[Урок 22](https://bohdantarchanin.github.io/lesson_22/ "Мои домашки")  - карты
+
 [Практика 1](https://bohdantarchanin.github.io/Practice%20_1/ "Мои домашки")  - Практика 1. Шапка сайта
 
 [Практика 2](https://bohdantarchanin.github.io/Practise_2/ "Мои домашки")  - Практика 2. Подключение шрифтов. Верстка первого экрана
@@ -39,13 +51,15 @@
 
 [Практика 6](https://bohdantarchanin.github.io/Practise_6/ "Мои домашки")  - Практика 6. Верстка блока с ценами
 
-[Урок 18.1](https://bohdantarchanin.github.io/lesson_18.1/ "Мои домашки")  - форма с использованием табов
+[Практика 7](https://bohdantarchanin.github.io/Practise_7/ "Мои домашки")  - Практика 7. Верстка блока с отзывами
 
-[Урок 18.2](https://bohdantarchanin.github.io/lesson_18.2/ "Мои домашки")  - аккордеон 
+[Практика 8](https://bohdantarchanin.github.io/Practise_8/ "Мои домашки")  - Практика 8. Доверстали блок с отзывами
 
-[Урок 19](https://bohdantarchanin.github.io/lesson_19/ "Мои домашки")  - анимация формы
+[Практика 9](https://bohdantarchanin.github.io/Practise_9/ "Мои домашки")  - Практика 9. Верстаем схему работы и все включено
 
-[Урок 20](https://bohdantarchanin.github.io/lesson_20/ "Мои домашки")  - видео-фон на сайте
+[Практика 10](https://bohdantarchanin.github.io/Practise_10/ "Мои домашки")  - Практика 10. Верстаем блок "Развеиваем сомнения "
+
+
 
 
 
